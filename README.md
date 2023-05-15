@@ -19,9 +19,7 @@
 <a href="https://www.codewars.com/users/Artpupser">
 <img alt="Codewars stats" src="https://www.codewars.com/users/Artpupser/badges/large">
 </a>
-<h2>Github<h2>
-<img src="https://github-profile-trophy.vercel.app/?username=artpupser&theme=juicyfresh&no-bg=false" />
-</div>
+
 
 #
 
