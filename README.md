@@ -6,7 +6,7 @@
 
   <div align="center">
 
-### Мне нравится разработка игр, <br> Часто используемый язык программирования: C#.
+### Мне нравится разработка игр, <br>🔥 Часто используемый язык программирования: C#. 🔥
 
   </div>
 
@@ -76,7 +76,7 @@
 
 - ### 🔗 CPU: [_AMD Ryzen 5 3600X 6-Core_](https://www.ozon.ru/product/protsessor-amd-ryzen-5-3600-box-100-100000031box-154912372/reviews/)
 - ### 🔗 GPU: [_NVIDIA GeForce GTX 1060 6GB_](https://www.ozon.ru/product/videokarta-asus-geforce-gtx-1060-asus-turbo-gtx-1060-6-gb-6-gb-373455334-959081575/?asb=WG3SEwJFu%252BL7ZjPjg4KVIcwhGKPanMhWWJp%252Bzm96LOc%253D&asb2=apFtvxOe5QEZkAxEDCfo5gEEvq3-cqvRm_aRvZVR8PmikgMeYCWfTZsJzx_q_AqN&avtc=1&avte=2&avts=1684267165&sh=3KyFmGT9Dg)
-- ### 🔗 REM: [_Kingston HyperX FURY DDR4 2400 МГц 2x8 ГБ_](https://www.ozon.ru/product/operativnaya-pamyat-kingston-hyperx-fury-ddr4-2400-mgts-black-2x8-gb-hx424c15fbk2-878467254/?advert=ahIv9UT3R-B_-x2PlFGaAhzxPMWeNIFLJso3xAHWmo0DiWTObun0YoPnYU5iFgkKzxc211NmebKbuG9j7WLryXWg-99juVXN6HUDlALRIc9vzSDSOs9aOD28NnJQdNddLfk_Jq49F-G25rvLBet4_81mjs5frim4B3xD_NMoz_L2Yfxr1ljpDLgXH8NXX_HQSXiJcPwVp_JXNSPTMufDy5uS2rnyX50WIHfGpGzreXEk7-rTGtBX7RhqfoU_72RO68oIOE1Ln4YPs6xPBHRUUdWaeQ9aoW6cUr4qv1qH3ErbIph7r1GJohLLhzZdd2iNHpjBxAWQ1N8lyc8&avtc=1&avte=2&avts=1684267748&from_sku=878467254&from_url=https%253A%252F%252Fwww.ozon.ru%252Fcategory%252Fkingston-hyperx-khx3200c16d4-8gx%252F&keywords=kingston+hyperx+khx3200c16d4%2F8gx&oos_search=false&sh=3KyFmMGvKg)
+- ### 🔗 RAM: [_Kingston HyperX FURY DDR4 2400 МГц 2x8 ГБ_](https://www.ozon.ru/product/operativnaya-pamyat-kingston-hyperx-fury-ddr4-2400-mgts-black-2x8-gb-hx424c15fbk2-878467254/?advert=ahIv9UT3R-B_-x2PlFGaAhzxPMWeNIFLJso3xAHWmo0DiWTObun0YoPnYU5iFgkKzxc211NmebKbuG9j7WLryXWg-99juVXN6HUDlALRIc9vzSDSOs9aOD28NnJQdNddLfk_Jq49F-G25rvLBet4_81mjs5frim4B3xD_NMoz_L2Yfxr1ljpDLgXH8NXX_HQSXiJcPwVp_JXNSPTMufDy5uS2rnyX50WIHfGpGzreXEk7-rTGtBX7RhqfoU_72RO68oIOE1Ln4YPs6xPBHRUUdWaeQ9aoW6cUr4qv1qH3ErbIph7r1GJohLLhzZdd2iNHpjBxAWQ1N8lyc8&avtc=1&avte=2&avts=1684267748&from_sku=878467254&from_url=https%253A%252F%252Fwww.ozon.ru%252Fcategory%252Fkingston-hyperx-khx3200c16d4-8gx%252F&keywords=kingston+hyperx+khx3200c16d4%2F8gx&oos_search=false&sh=3KyFmMGvKg)
 - ### 🔗 Система плата: [_ASUS PRIME B350M-A_](https://www.ozon.ru/product/materinskaya-plata-asus-prime-b350m-a-746259758/?sh=3KyFmFVjDA)
 - ### 🔗 SSD: [_ADATA SU630 [480гб]_](https://www.ozon.ru/product/480-gb-vnutrenniy-ssd-disk-adata-ultimate-su630-asu630ss-480gq-r-332269695/?advert=1SJjTo-DMvTUWEN2tNvAwAqC2WJtzO1EZ2JI4uxy6tq_rgAx6wfnlPtPGy96RfULCYu4pvWDRDcY6ZOtGE8763d6OeDHgRML72NDP6cYVSVHAbRF2sTVogqtKfC2Uri8zvTETsVAI9uX9K_lrssv4d4wFS32YNZfqaYeDT12IoZQN3rilxVHzGm9ii-3WbFmjhaoW1VodX-CYTfS0yLAZQhUMRrueGrrvz36b2OLztDHHZquGoGum_QpsNshykUQjELsR1fwS5rWnYki2v2G1VOmPsdw2ON7zhHUx9iBzloa7So5yR2v4tu0okVEtsnhUuxTtA&avtc=1&avte=2&avts=1684268043&keywords=ssd+adata+su630&sh=3KyFmF8g5A)
 - ### 🔗 Клавиатура: [_Panteon T1 PRO_](https://www.ozon.ru/product/klaviatura-jet-a-t1-pro-923969465/?utm_source=yandex_serp_products&utm_medium=organic&sh=3KyFmFTkeA)
