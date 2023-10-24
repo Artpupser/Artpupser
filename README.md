@@ -14,9 +14,7 @@
 
 <div align="right">
 
-[![Discord_server](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SUE3m8SQwM)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCcCCadjB3FzW-JQVz4asDqg)
-[![VK](https://img.shields.io/badge/VK-%230077FF.svg?style=for-the-badge&logo=Vk&logoColor=white)](https://vk.com/artpupser_0)
 
 </div>
 
