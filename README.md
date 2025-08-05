@@ -38,14 +38,5 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## 📌 Links:
-
-<div align="left">
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yTACqmKdy4)
-[![DonatePay](https://img.shields.io/badge/Donatepay-9fe856.svg?style=for-the-badge&logoColor=white)](https://new.donatepay.ru/@1270057)
-
-</div>
-
 
 
