@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Artpupser/Artpupser/blob/main/github_samuraji.webm" style="border-radius: 20px; width: 400px;">
+  <img src="https://raw.githubusercontent.com/Artpupser/Artpupser/refs/heads/main/github_samuraji.webm" style="border-radius: 20px; width: 400px;">
 </div>
 
 ## 💡 Stack:
