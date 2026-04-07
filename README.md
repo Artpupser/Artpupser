@@ -3,11 +3,11 @@
   <img src="https://github.com/Artpupser/Artpupser/blob/main/assets/0.jpg" style="border-radius: 20px; width: 400px;">
 </div>
 
-## 🧲 targets
+## ✨ targets
 
 > **[PupaMVCF](https://github.com/Artpupser/PupaMVCF)** lightweight web MVC framework built on C#
 
-## 🫀 stack
+## 🌊 stack
 
 | IDE | OS|
 |-----------|-----------|
