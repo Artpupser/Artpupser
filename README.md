@@ -1,12 +1,11 @@
-# Artpupser
-
 <div align="center">
+<h1> Welcome, ladies and gentlemen! 🕯️</h1>
   <img src="https://github.com/Artpupser/Artpupser/blob/main/assets/0.jpg" style="border-radius: 20px; width: 400px;">
 </div>
 
-## 🎯 targets
+## 🧲 targets
 
-- **[PupaMVCF](https://github.com/Artpupser/PupaMVCF)** — lightweight web MVC framework built on C#
+> **[PupaMVCF](https://github.com/Artpupser/PupaMVCF)** lightweight web MVC framework built on C#
 
 ## 🫀 stack
 
