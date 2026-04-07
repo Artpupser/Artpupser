@@ -1,7 +1,7 @@
 # Artpupser
 
 <div align="center">
-  <img src="https://github.com/Artpupser/Artpupser/blob/main/assets/0.jpg" style="border-radius: 20px; width: 400px;">
+  <img src="./assets/0.jpg" style="border-radius: 20px; width: 400px;">
 </div>
 
 ## 🎯 targets
