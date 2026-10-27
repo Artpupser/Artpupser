@@ -5,7 +5,7 @@
 
 ## ✨ targets
 
-> **[PupaMVCF](https://github.com/Artpupser/PupaMVCF)** lightweight web MVC framework built on C#
+> **[LifeCycle](https://github.com/Artpupser/LifeCycle)** application for analytics self life 🌱
 
 ## 🌊 stack
 
